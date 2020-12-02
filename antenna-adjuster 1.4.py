@@ -1,7 +1,7 @@
 import math
 
 print("\n\n ______________________________________________________")
-print("|васпривевтствует antenna adjuster войти <Y>es or <N>o|")
+print("|вас привевтствует antenna-adjuster войти <Y>es or <N>o|")
 print("|_____________________________________________________|")
 yes = input('')
 while yes != 'Y':
