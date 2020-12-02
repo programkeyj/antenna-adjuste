@@ -7,8 +7,8 @@ yes = input('')
 while yes != 'Y':
      print("приходите ещё")
      yes = input('')
-if yes == 'N':
-  print("ctrl+c для выхода")
+     if yes == 'N':
+     print("ctrl+c для выхода")
 print("используйте только цифры и точки")
 while 0 == 0 :
  print("Введите широту исходной точки:")
