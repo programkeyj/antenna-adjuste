@@ -32,7 +32,6 @@ while 0 == 0 :
  print("\n\n ___________________________________________")
  print("| Для завершения программы нажсимте ctrl+C  |")
  print("|___________________________________________|")
-
  print(" __________________________________________________________________ ")
  print("| antenna adjuster_  by keyj    _                                 |")
  print("| if you want english localisation my post jeykeyrobokey@gmail.com|")
